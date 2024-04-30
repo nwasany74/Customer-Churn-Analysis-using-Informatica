@@ -1,5 +1,5 @@
 # Customer-Churn-Analysis-using-Informatica
-# Informatica Project README
+# Informatica Project 
 
 This Informatica project analyzes customer churn and behavior using data from CSV files. Below are the project details and the tasks performed along with their corresponding outputs:
 
