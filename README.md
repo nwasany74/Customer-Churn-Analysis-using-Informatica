@@ -45,6 +45,5 @@ This output file displays the highest and lowest credit score values.
 ![Number of Active Customers](https://drive.google.com/uc?id=1mutI8YiPDPo0J6d_CAQ26gHc0dhFhvcU)
 ![Age Distribution](https://drive.google.com/uc?id=1uB3cNJwSgB8rFv3da5ve-rtAEarmKk61)
 ![Users with Available Balance Data](https://drive.google.com/uc?id=1FpwN_YrU-qwpz2KPCFxGC6AyVymPhbJz)
-![Users with Available Balance Data](https://drive.google.com/file/d/1zz-C3Je895PjR3iPX1qZF4kKQh8Ud2I8/view?usp=sharing)
-![Users with Available Balance Data](https://drive.google.com/file/d/188D1Bbcloqs3yJ1F8xLL3CuHHRgMMd9t/view?usp=sharing)
-
+![Top 5 Balances](https://drive.google.com/uc?id=1zz-C3Je895PjR3iPX1qZF4kKQh8Ud2I8)
+![Credit Score Values](https://drive.google.com/uc?id=188D1Bbcloqs3yJ1F8xLL3CuHHRgMMd9t)
