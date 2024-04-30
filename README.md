@@ -15,7 +15,7 @@ The objective of this project is to analyze customer churn and behavior by perfo
 ## Tasks
 
 ### Task 1: Sum of Balances for Male and Female Customers
-![Sum of Balances](https://drive.google.com/file/d/1P90WZV_Y2fjFniqd548k7M3cuQM33y5c/view?usp=sharing)
+![Sum of Balances](https://drive.google.com/uc?id=1P90WZV_Y2fjFniqd548k7M3cuQM33y5c)
 This output file contains the sum of balances for male and female customers.
 
 ### Task 2: Number of Active Male and Female Customers
